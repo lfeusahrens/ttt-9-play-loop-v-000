@@ -41,10 +41,5 @@ def play(board)
   until turn_count == 9  
     turn_count += 1 
     turn(board)
-
-    if turn_count > 9 
-      break
-    end
-  turn(board)
   end
 end
