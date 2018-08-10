@@ -40,7 +40,7 @@ def play(board)
   index = 0
   loop do 
     
-    if 
+    if turn
   turn(board)
   end
 end
