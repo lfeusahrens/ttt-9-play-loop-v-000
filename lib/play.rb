@@ -41,6 +41,8 @@ def play(board)
   loop do 
     
     if turn > 9 
+      break
+    end
   turn(board)
   end
 end
