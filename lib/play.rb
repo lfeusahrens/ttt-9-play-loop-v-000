@@ -37,7 +37,7 @@ end
 
 # Define your play method below
 def play(board)
-  index = 0
+  turn = 0
   loop do 
     
     if turn
