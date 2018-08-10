@@ -40,5 +40,5 @@ def play(board)
   index = 0
   while index < 9 
   turn(board)
-end
+  end
 end
